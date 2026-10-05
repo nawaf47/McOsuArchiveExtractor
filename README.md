@@ -9,7 +9,7 @@ the right folder.
 ## Download
 
 Grab the latest version from [Releases](https://github.com/nawaf47/McOsuArchiveExtractor/releases)
-and run the .exe. No install needed.
+and run the .exe
 
 ## Features
 
@@ -18,5 +18,3 @@ and run the .exe. No install needed.
 - Deletes the original download once it's extracted
 - Keeps a history of what's been extracted
 - Can start with Windows and run from the system tray
-
-Made by [nawaf47](https://github.com/nawaf47)
